@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstname": "Mayank",
+      "lastname": "Shingare",
+      "email": "taparegayatri@gmail.com",
+      "dob": "2000-12-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "HTS",
+      "experience": 2,
+      "package": 256,
+      "id": 1
+    }
+  ]
+}
